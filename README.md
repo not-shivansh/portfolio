@@ -18,59 +18,35 @@
 
 ---
 
-## 🧠 Talk to My AI (This is not a gimmick)
-
-<p align="center">
-
-<a href="https://shivansh-thakur.netlify.app/#chat">
-<img src="https://img.shields.io/badge/💬%20Ask%20About%20Me-AI%20Chatbot-7c6fff?style=for-the-badge">
-</a>
-
-<a href="https://shivansh-thakur.netlify.app/#chat?query=What%20are%20your%20skills">
-<img src="https://img.shields.io/badge/⚡%20My%20Skills-Explained-00e5ff?style=for-the-badge">
-</a>
-
-<a href="https://shivansh-thakur.netlify.app/#chat?query=Show%20your%20projects">
-<img src="https://img.shields.io/badge/🚀%20Projects-Show%20Me-ff4d8c?style=for-the-badge">
-</a>
-
-<a href="https://shivansh-thakur.netlify.app/#chat?query=Why%20should%20we%20hire%20you">
-<img src="https://img.shields.io/badge/💼%20Hire%20Me-Let's%20Talk-39ff99?style=for-the-badge">
-</a>
-
-</p>
-
----
-
-## ⚡ Who Am I?
+## ⚡ About Me
 
 ```ts
 const shivansh = {
   role: "Backend + AI/ML Engineer",
-  mindset: "I don’t just code — I architect systems",
-  focus: ["Scalable Backend", "AI/ML Systems", "System Design"],
-  currentMission: "Building AI evaluation systems",
+  builds: ["Scalable Systems", "ML Pipelines", "Real-world AI"],
+  superpower: "System Design",
+  currentFocus: "AI Evaluation Systems",
   status: "🚀 Open to SDE Roles"
 };
 ```
 
 ---
 
-## 🚀 Featured Projects (Proof of Work)
+## 🚀 Featured Work
 
 ### 🤖 Scorix AI  
 → LLM Evaluation Engine  
 → 📊 R² = 0.96  
-→ RLHF-style feedback system  
+→ RLHF-style learning system  
 
 ### 📊 AIBench  
 → Multi-metric LLM benchmarking platform  
 
 ### 📅 Slotify  
-→ Smart scheduling with O(log n) conflict resolution  
+→ Smart scheduling system (O(log n) conflict resolution)  
 
 ### 🔍 TruthLens (IEEE)  
-→ 🧠 Fake news detection  
+→ Fake news detection system  
 → 🎯 99.04% accuracy  
 
 ---
@@ -78,21 +54,16 @@ const shivansh = {
 ## 🧠 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,spring,fastapi,postgres,mongodb,aws,docker,git&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,spring,fastapi,postgres,mongodb,aws,docker,git&theme=dark" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Real Performance)
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=not-shivansh&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=not-shivansh&theme=tokyonight&hide_border=true" height="160"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=not-shivansh&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=not-shivansh&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
@@ -102,9 +73,8 @@ const shivansh = {
 - ⚔️ LeetCode Knight  
 - ⭐ CodeChef 5★  
 - 📄 2× IEEE Publications  
-- 📈 Built ML system with R² = 0.96  
+- 📈 ML system with R² = 0.96  
 - 🎯 99%+ model accuracy  
-- 👥 Led 100+ dev community  
 
 ---
 
@@ -114,42 +84,38 @@ const shivansh = {
 
 - Built end-to-end ML pipelines  
 - Developed APIs for real-time inference  
-- Worked on production-grade systems  
+- Worked on production-level systems  
 
 ---
 
 ## 🎯 Current Focus
 
 - Backend Engineering (SDE Roles)  
-- AI Systems & Evaluation  
+- AI/ML Systems  
 - Scalable System Design  
 
 ---
 
-## 💬 Why This Profile Hits Different
+## 💬 Let's Connect
 
-- ⚡ Interactive AI Chat (not static resume)
-- 🎯 Proof-driven (metrics > claims)
-- 🚀 Clean + premium UI (Dribbble inspired)
-- 🧠 Shows engineering depth + thinking
-
----
-
-## 🔥 If You’re a Recruiter
-
-👉 Don’t just read — interact:  
-**Click the AI chatbot above and ask anything**
+<p align="center">
+  <a href="https://shivansh-thakur.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-7c6fff?style=for-the-badge">
+  </a>
+  <a href="mailto:thakur.shivansh.pundir@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-ff4d8c?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
-## 🧩 Fun Fact
+## 🧩 Philosophy
 
-> I debug systems faster at 2 AM than most people at 2 PM.
+> I don’t just write code.  
+> I design systems that scale, adapt, and survive production.
 
 ---
 
 <p align="center">
-  
-⭐ If you like this profile, consider starring a project — it helps!
-
+⭐ If you like what you see, explore my repositories.
 </p>
